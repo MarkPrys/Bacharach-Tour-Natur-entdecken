@@ -1,7 +1,7 @@
 {
-  "name": "friedrichssegen.app",
+  "name": "bacharach.app",
   "version": "0.9.8",
-  "description": "Tour around Friedrichssegen",
+  "description": "Tour around Bacharach",
   "author": "movisda GmbH",
   "license": "Closed Source",
   "main": "js/app.js",

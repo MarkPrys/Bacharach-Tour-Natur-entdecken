@@ -34,19 +34,19 @@ const LAYERS = {
     //     age: 1820,
     //   },
     // },
-    {
-      name: "Historische Karte",
-      url: "data/maps/Historische Karte.jpg",
-      world: {
-        file: "data/maps/Historische Karte.jgw",
-        proj: "UTM",
-        zone: 32,
-        band: "N",
-      },
-      options: {
-        age: 1879,
-      },
-    },
+    // {
+    //   name: "Historische Karte",
+    //   url: "data/maps/Historische Karte.jpg",
+    //   world: {
+    //     file: "data/maps/Historische Karte.jgw",
+    //     proj: "UTM",
+    //     zone: 32,
+    //     band: "N",
+    //   },
+    //   options: {
+    //     age: 1879,
+    //   },
+    // },
     // {
     //   name: "Preuß. Neuaufnahme 1902",
     //   url: "data/maps/preuss1902.png",
@@ -58,30 +58,37 @@ const LAYERS = {
     //     age: 1902,
     //   },
     // },
-    {
-      // ETRS89 / UTM 32N
-      name: "TK25 2023",
-      url: "data/maps/TK.jpg",
-      world: {
-        file: "data/maps/TK.jgw",
-        proj: "UTM",
-        zone: 32,
-        band: "N",
-      },
-      options: {
-        age: 2023,
-      },
-    },
+    // {
+    //   // ETRS89 / UTM 32N
+    //   name: "TK25 2023",
+    //   url: "data/maps/TK.jpg",
+    //   world: {
+    //     file: "data/maps/TK.jgw",
+    //     proj: "UTM",
+    //     zone: 32,
+    //     band: "N",
+    //   },
+    //   options: {
+    //     age: 2023,
+    //   },
+    // },
   ],
   /* OSM Rasterkarten */
   pmtiles: [
     {
       name: "OpenStreetMap 03/2025",
-      url: "data/maps/OSM.pmtiles",
+      url: "data/maps/Bacharach_OSM.pmtiles",
+      options: {
+        age: 2025,
+      },
+    },
+    {
+      name: "Luftbild 06/2024",
+      url: "data/maps/Bacharach_LB.pmtiles",
       options: {
         age: 2024,
       },
-    },
+    }
   ],
   /* GeoJSON overlays */
   geojson: [
@@ -94,20 +101,20 @@ const LAYERS = {
     },
 
     {
-      name: "Vogels Rheinpanorama",
+      name: "Naturleben",
       url: "data/overlays/Infopunkte.geojson",
       options: {
         age: 3,
       },
     },
 
-    {
-      name: "Drohnen Panoramas",
-      url: "data/overlays/posDrohnen.geojson",
-      options: {
-        age: 5,
-      }
-    }
+    // {
+    //   name: "Drohnen Panoramas",
+    //   url: "data/overlays/posDrohnen.geojson",
+    //   options: {
+    //     age: 5,
+    //   }
+    // }
     // {
     //   name: "Panorama",
     //   url: "data/overlays/pano.geojson",

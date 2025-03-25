@@ -1,10 +1,10 @@
 {
   "type": "FeatureCollection",
-  "name": "Infopunkte",
+  "Objekt": "Infopunkte",
   "crs": {
-    "type": "name",
+    "type": "Objekt",
     "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      "Objekt": "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
   },
   "features": [
@@ -12,56 +12,59 @@
       "type": "Feature",
       "properties": {
         "Id": 1,
-        "Objekt": "Rechts 35",
-        "Bilder": "./data/content/image/rechts35.jpg",
-         "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=2&pan=-28.45629640530693&tilt=-0.13697177967902396&fov=90"
-        
+        "Objekt": "Abraumhalde",
+        "Bilder": "./data/content/image/Abraumhalde.jpg"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.806617446530497, 50.035380598101874]
+        "coordinates": [
+          7.751806897878045,
+          50.058977920795485
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "Id": 2,
-        "Objekt": "Rechts 36",
-        "Bilder": "./data/content/image/rechts36.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=3&pan=32.784296087635624&tilt=-0.011500840096759418&fov=90"
+        "Objekt": "Acer monspessulanum",
+        "Bilder": "./data/content/image/Acer monspessulanum.jpeg"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.798020730796459, 50.03928409814968]
+        "coordinates": [
+          7.764406315733681,
+          50.061503200900006
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "Id": 3,
-        "Objekt": "Rechts 37",
-        "Bilder": "./data/content/image/rechts37.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=9&pan=343.30424374564325&tilt=0.5590594531868199&fov=99.14456569303832"
+        "Objekt": "Achillea nobilis",
+        "Bilder": "./data/content/image/Achillea nobilis.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.787138821171364, 50.04422060411797]
+          7.760472578679359,
+          50.060955601957296
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "Id": 4,
-        "Objekt": "Rechts 38",
-        "Bilder": "./data/content/image/rechts38.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=19&pan=359.45594993271357&tilt=0.8258657736401998&fov=99.4061960788371"
+        "Objekt": "Allium rotundum",
+        "Bilder": "./data/content/image/Allium rotundum.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.774255136140252,
-          50.0519674051388
+          7.766443849108621,
+          50.06075740411385
         ]
       }
     },
@@ -69,15 +72,14 @@
       "type": "Feature",
       "properties": {
         "Id": 5,
-        "Objekt": "Rechts 39",
-        "Bilder": "./data/content/image/rechts39.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=30&pan=109.24354884448715&tilt=3.103058085874642&fov=104.0667834174375"
+        "Objekt": "Allium sphaerocephalon",
+        "Bilder": "./data/content/image/Allium sphaerocephalon.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.769445253446745,
-          50.06530427251282
+          7.765644073642422,
+          50.061672245100226
         ]
       }
     },
@@ -85,15 +87,14 @@
       "type": "Feature",
       "properties": {
         "Id": 6,
-        "Objekt": "Rechts 40",
-        "Bilder": "./data/content/image/rechts40.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=37&pan=60.989667381303&tilt=-0.76295444325815&fov=94.49239370625902"
+        "Objekt": "Anthemis tinctoria",
+        "Bilder": "./data/content/image/Anthemis tinctoria.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.768238015343448,
-          50.077743226246824
+          7.766881667241678,
+          50.06091079111726
         ]
       }
     },
@@ -101,16 +102,14 @@
       "type": "Feature",
       "properties": {
         "Id": 7,
-        "Objekt": "Rechts 41",
-        "Bilder": "./data/content/image/rechts41.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=40&pan=139.7118811404386&tilt=2.385230780141497&fov=99.45355096406131",
-        "iconColor": "red"
+        "Objekt": "Anthericum lilago",
+        "Bilder": "./data/content/image/Anthericum lilago.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.763231911970151,
-          50.08200421907938
+          7.76537492741332,
+          50.06164439496432
         ]
       }
     },
@@ -118,15 +117,14 @@
       "type": "Feature",
       "properties": {
         "Id": 8,
-        "Objekt": "Rechts 42",
-        "Bilder": "./data/content/image/rechts42.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=41&pan=90.283436652222&tilt=2.3913764088752&fov=103.91951284044012"
+        "Objekt": "Aquilegia vulgaris",
+        "Bilder": "./data/content/image/Aquilegia vulgaris.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.75668728659904,
-          50.08679730016444
+          7.752828578522319,
+          50.05899366360975
         ]
       }
     },
@@ -134,15 +132,14 @@
       "type": "Feature",
       "properties": {
         "Id": 9,
-        "Objekt": "Rechts 43",
-        "Bilder": "./data/content/image/rechts43.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=43&pan=24.533128501675&tilt=1.2748616561558&fov=90"
+        "Objekt": "Arabis glabra",
+        "Bilder": "./data/content/image/Arabis glabra.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.745964025596735,
-          50.094241481752235
+          7.765374802201293,
+          50.061217228031836
         ]
       }
     },
@@ -150,15 +147,14 @@
       "type": "Feature",
       "properties": {
         "Id": 10,
-        "Objekt": "Rechts 44",
-        "Bilder": "./data/content/image/rechts44.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=45&pan=333.2112284446935&tilt=-0.573374570231391&fov=99.24291920123439"
+        "Objekt": "Aristolochia clematitis",
+        "Bilder": "./data/content/image/Aristolochia clematitis.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.736914760431111,
-          50.10216021370375
+          7.766985048948182,
+          50.06041095151472
         ]
       }
     },
@@ -166,15 +162,14 @@
       "type": "Feature",
       "properties": {
         "Id": 11,
-        "Objekt": "Rechts 45",
-        "Bilder": "./data/content/image/rechts45.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=51&pan=311.04881236732&tilt=-1.4128011895016&fov=90"
+        "Objekt": "Artemisia absinthium",
+        "Bilder": "./data/content/image/Artemisia absinthium.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.723053579112992,
-          50.111504133748696
+          7.75641949409802,
+          50.05900363833584
         ]
       }
     },
@@ -182,15 +177,14 @@
       "type": "Feature",
       "properties": {
         "Id": 12,
-        "Objekt": "Links 42",
-        "Bilder": "./data/content/image/links42.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=56&pan=105.86435446284978&tilt=-1.626328049961632&fov=90"
+        "Objekt": "Artemisia lednicensis",
+        "Bilder": "./data/content/image/Artemisia lednicensis.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.793251028971266,
-          50.04583903025721
+          7.754972082397915,
+          50.05845033918408
         ]
       }
     },
@@ -198,15 +192,14 @@
       "type": "Feature",
       "properties": {
         "Id": 13,
-        "Objekt": "Links 43",
-        "Bilder": "./data/content/image/links43.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=57&pan=172.74998797832&tilt=-1.4978689909047&fov=90"
+        "Objekt": "Asplenium ceterach",
+        "Bilder": "./data/content/image/Asplenium ceterach.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.786795067127328,
-          50.049793505015955
+          7.761865296106238,
+          50.061413058245826
         ]
       }
     },
@@ -214,15 +207,14 @@
       "type": "Feature",
       "properties": {
         "Id": 14,
-        "Objekt": "Links 44",
-        "Bilder": "./data/content/image/links44.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=62&pan=226.01356054235163&tilt=-0.14917897414568296&fov=90"
+        "Objekt": "Asplenium septentrionale",
+        "Bilder": "./data/content/image/Asplenium septentrionale.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.774892868161364,
-          50.05856875270877
+          7.759897010736405,
+          50.06061624462038
         ]
       }
     },
@@ -230,15 +222,14 @@
       "type": "Feature",
       "properties": {
         "Id": 15,
-        "Objekt": "Links 45",
-        "Bilder": "./data/content/image/links45.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=63&pan=-32.27080046526549&tilt=0.05446342398579985&fov=90"
+        "Objekt": "Aster linosyris",
+        "Bilder": "./data/content/image/Aster linosyris.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.776389408018029,
-          50.065128854669574
+          7.764246866643838,
+          50.060515095700765
         ]
       }
     },
@@ -246,16 +237,15 @@
       "type": "Feature",
       "properties": {
         "Id": 16,
-        "Objekt": "Links 46",
-        "Bilder": "./data/content/image/links46.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=71&pan=142.70061305587518&tilt=3.558629668465213&fov=120",
+        "Objekt": "Bacharach Kultur und Natur",
+        "Bilder": "./data/content/image/Bacharach Kultur und Natur.jpeg",
         "iconColor": "red"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.768313745099143,
-          50.08308192109334
+          7.759020003603309,
+          50.060221350508094
         ]
       }
     },
@@ -263,15 +253,14 @@
       "type": "Feature",
       "properties": {
         "Id": 17,
-        "Objekt": "Links 47",
-        "Bilder": "./data/content/image/links47.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=73&pan=134.0859616329946&tilt=-0.5728296128319085&fov=90"
+        "Objekt": "Ballota nigra",
+        "Bilder": "./data/content/image/Ballota nigra.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.763271119930672,
-          50.08645513664299
+          7.767271234551517,
+          50.06049490311042
         ]
       }
     },
@@ -279,15 +268,14 @@
       "type": "Feature",
       "properties": {
         "Id": 18,
-        "Objekt": "Links 48",
-        "Bilder": "./data/content/image/links48.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=86&pan=148.25344643926&tilt=1.7383206830753&fov=90"
+        "Objekt": "Berberis vulgaris",
+        "Bilder": "./data/content/image/Berberis vulgaris.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.750095421634359,
-          50.096737290577
+          7.765235772195482,
+          50.06144896477637
         ]
       }
     },
@@ -295,15 +283,14 @@
       "type": "Feature",
       "properties": {
         "Id": 19,
-        "Objekt": "Links 49",
-        "Bilder": "./data/content/image/links49.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=91&pan=122.90924117285&tilt=-2.5805645248374&fov=90"
+        "Objekt": "Campanula rapunculus",
+        "Bilder": "./data/content/image/Campanula rapunculus.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.735622493388822,
-          50.106884841900396
+          7.766804020578076,
+          50.061127713490094
         ]
       }
     },
@@ -311,15 +298,14 @@
       "type": "Feature",
       "properties": {
         "Id": 20,
-        "Objekt": "Links 50",
-        "Bilder": "./data/content/image/links50.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=95&pan=129.55723141685766&tilt=-3.2405474886544945&fov=90"
+        "Objekt": "Cardamine impatiens",
+        "Bilder": "./data/content/image/Cardamine impatiens.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.726157385776514,
-          50.11218338322724
+          7.752114186303398,
+          50.05767711890037
         ]
       }
     },
@@ -327,15 +313,14 @@
       "type": "Feature",
       "properties": {
         "Id": 21,
-        "Objekt": "Links 51",
-        "Bilder": "./data/content/image/links51.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=96&pan=125.03506812446&tilt=0.56316588751645&fov=90"
+        "Objekt": "Carduus nutans",
+        "Bilder": "./data/content/image/Carduus nutans.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.72560924109069,
-          50.11610393592475
+          7.764864860002906,
+          50.060921472528406
         ]
       }
     },
@@ -343,18 +328,1021 @@
       "type": "Feature",
       "properties": {
         "Id": 22,
-        "Objekt": "Drohnenpano 1",
-        "Bilder": "./data/content/image/links51.jpg",
-        "Link": "https://vr-easy.com/tour/viriditas/250311-vogels_rheinpanorama/#pano=99&pan=-1.1574803507916651&tilt=19.709249853850036&fov=113.16032647230658"
+        "Objekt": "Chaerophyllum aureum",
+        "Bilder": "./data/content/image/Chaerophyllum aureum.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.786041666666667,
-          50.04173333333333
+          7.763026503590628,
+          50.06225835343722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 23,
+        "Objekt": "Collomia grandiflora",
+        "Bilder": "./data/content/image/Collomia grandiflora.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750249738770046,
+          50.0563101149035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 24,
+        "Objekt": "Crepis pulchra",
+        "Bilder": "./data/content/image/Crepis pulchra.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75788221364938,
+          50.05961900014836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 25,
+        "Objekt": "Cymbalaria muralis",
+        "Bilder": "./data/content/image/Cymbalaria muralis.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76803583167706,
+          50.059508284898385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 26,
+        "Objekt": "Dianthus deltoides",
+        "Bilder": "./data/content/image/Dianthus deltoides.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.760800783619523,
+          50.06120184151753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 27,
+        "Objekt": "Draba muralis",
+        "Bilder": "./data/content/image/Draba muralis.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767972437228945,
+          50.05967419467416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 28,
+        "Objekt": "Dryopteris filix-mas",
+        "Bilder": "./data/content/image/Dryopteris filix-mas.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737223174648745,
+          50.058872516224774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 29,
+        "Objekt": "EchioMelilotetum",
+        "Bilder": "./data/content/image/EchioMelilotetum.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76643663235935,
+          50.06046223806346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 30,
+        "Objekt": "Echium vor Bacharach",
+        "Bilder": "./data/content/image/Echium vor Bacharach.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763304782143286,
+          50.061499798021266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 31,
+        "Objekt": "Emberiza cia",
+        "Bilder": "./data/content/image/Emberiza cia.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766536154381338,
+          50.061914944848134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 32,
+        "Objekt": "Erysimum cheiri",
+        "Bilder": "./data/content/image/Erysimum cheiri.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766861967525113,
+          50.0613187093752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 33,
+        "Objekt": "Faerbepflanzen",
+        "Bilder": "./data/content/image/Faerbepflanzen.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746536993239816,
+          50.05538004634259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 34,
+        "Objekt": "Felsausbiss mit Felsvegetation",
+        "Bilder": "./data/content/image/Felsausbiss mit Felsvegetation.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764853603116912,
+          50.06072149690795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 35,
+        "Objekt": "Felsbandrasen",
+        "Bilder": "./data/content/image/Felsbandrasen.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765028599122809,
+          50.061599064704524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 36,
+        "Objekt": "Felsbandrasen Fetthenne",
+        "Bilder": "./data/content/image/Felsbandrasen Fetthenne.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765224804883698,
+          50.06086818841934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 37,
+        "Objekt": "Felsbandrasen Schieferfelsen",
+        "Bilder": "./data/content/image/Felsbandrasen Schieferfelsen.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764733553164848,
+          50.06157212736552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 38,
+        "Objekt": "Felsbiotopkomplex",
+        "Bilder": "./data/content/image/Felsbiotopkomplex.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76545925590604,
+          50.06152749422671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 39,
+        "Objekt": "Felsbiotopkomplex",
+        "Bilder": "./data/content/image/Felsbiotopkomplex.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766103176347958,
+          50.06207692523373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 40,
+        "Objekt": "Felsbiotopkomplex in Weinbergsterrassen",
+        "Bilder": "./data/content/image/Felsbiotopkomplex in Weinbergsterrassen.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764394113345035,
+          50.06134010135198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 41,
+        "Objekt": "Felsbiotopkomplex komplett",
+        "Bilder": "./data/content/image/Felsbiotopkomplex komplett.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765436045920621,
+          50.06185565319469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 42,
+        "Objekt": "Felsbiotopkomplex vollstaendig",
+        "Bilder": "./data/content/image/Felsbiotopkomplex vollstaendig.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765740561274605,
+          50.06180177785806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 43,
+        "Objekt": "Felsen und Weinbergsbrachen verzahnt",
+        "Bilder": "./data/content/image/Felsen und Weinbergsbrachen verzahnt.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765279538163258,
+          50.061040112911435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 44,
+        "Objekt": "Felskomplex kleinraeumig",
+        "Bilder": "./data/content/image/Felskomplex kleinraeumig.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765617463912133,
+          50.061124618994036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 45,
+        "Objekt": "Festuca heteropachys",
+        "Bilder": "./data/content/image/Festuca heteropachys.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756649358904094,
+          50.05912032931887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 46,
+        "Objekt": "Galeopsis angustifolia",
+        "Bilder": "./data/content/image/Galeopsis angustifolia.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752105868847969,
+          50.05879079869979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 47,
+        "Objekt": "Galium glaucum",
+        "Bilder": "./data/content/image/Galium glaucum.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763804680391893,
+          50.061467047496734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 48,
+        "Objekt": "Geranium rotundifolium",
+        "Bilder": "./data/content/image/Geranium rotundifolium.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766362563237498,
+          50.06032342513203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 49,
+        "Objekt": "Geranium sanguineum",
+        "Bilder": "./data/content/image/Geranium sanguineum.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764033936114934,
+          50.06146472958077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 50,
+        "Objekt": "Helleborus foetidus",
+        "Bilder": "./data/content/image/Helleborus foetidus.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737930280216765,
+          50.05770460705495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 51,
+        "Objekt": "Hieracium bauhinii",
+        "Bilder": "./data/content/image/Hieracium bauhinii.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765976721706967,
+          50.06181856754521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 52,
+        "Objekt": "Hieracium pilosella",
+        "Bilder": "./data/content/image/Hieracium pilosella.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.758199672840187,
+          50.05977946102887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 53,
+        "Objekt": "Iphiclides podalirius",
+        "Bilder": "./data/content/image/Iphiclides podalirius.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766662958896475,
+          50.06158312706705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 54,
+        "Objekt": "Isatis tinctoria",
+        "Bilder": "./data/content/image/Isatis tinctoria.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755749617668274,
+          50.05874896422084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 55,
+        "Objekt": "Lactuca perennis",
+        "Bilder": "./data/content/image/Lactuca perennis.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766379818911311,
+          50.0613802187504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 56,
+        "Objekt": "Mauertreppen und Mauerkronen",
+        "Bilder": "./data/content/image/Mauertreppen und Mauerkronen.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764537965768893,
+          50.06055151130271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 57,
+        "Objekt": "Melampyrum arvense",
+        "Bilder": "./data/content/image/Melampyrum arvense.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764882176684294,
+          50.06125482221107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 58,
+        "Objekt": "Melica ciliata",
+        "Bilder": "./data/content/image/Melica ciliata.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751931555945328,
+          50.05688031646516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 59,
+        "Objekt": "Melica uniflora",
+        "Bilder": "./data/content/image/Melica uniflora.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737384408319327,
+          50.058222216639855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 60,
+        "Objekt": "Parietaria judaica",
+        "Bilder": "./data/content/image/Parietaria judaica.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76624498214504,
+          50.060583948111095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 61,
+        "Objekt": "Petrorhagia prolifera",
+        "Bilder": "./data/content/image/Petrorhagia prolifera.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739492793969744,
+          50.058450983657245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 62,
+        "Objekt": "Potentilla argentea",
+        "Bilder": "./data/content/image/Potentilla argentea.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751560158086527,
+          50.05666333374783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 63,
+        "Objekt": "Prunus cerasifera",
+        "Bilder": "./data/content/image/Prunus cerasifera.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764561145089123,
+          50.06080044223579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 64,
+        "Objekt": "Prunus mahaleb",
+        "Bilder": "./data/content/image/Prunus mahaleb.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741480925196973,
+          50.05762536556798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 65,
+        "Objekt": "Reseda luteola",
+        "Bilder": "./data/content/image/Reseda luteola.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761442098651948,
+          50.06133834017565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 66,
+        "Objekt": "Ranunculus sceleratus",
+        "Bilder": "./data/content/image/Ranunculus sceleratus.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766655619925423,
+          50.06042767918466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 67,
+        "Objekt": "Rumex scutatus",
+        "Bilder": "./data/content/image/Rumex scutatus.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752052243025008,
+          50.05906742021616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 68,
+        "Objekt": "Saxifraga granulata",
+        "Bilder": "./data/content/image/Saxifraga granulata.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.740162832470554,
+          50.05827263776859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 69,
+        "Objekt": "Securigera varia",
+        "Bilder": "./data/content/image/Securigera varia.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741990192424503,
+          50.05652667906858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 70,
+        "Objekt": "Sedum album",
+        "Bilder": "./data/content/image/Sedum album.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.742757656892554,
+          50.055730637088246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 71,
+        "Objekt": "Sedum reflexum",
+        "Bilder": "./data/content/image/Sedum reflexum.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752040933292142,
+          50.05864846159414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 72,
+        "Objekt": "Sedum telephium",
+        "Bilder": "./data/content/image/Sedum telephium.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764989229275667,
+          50.06140469593934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 73,
+        "Objekt": "Sempervivum tectorum",
+        "Bilder": "./data/content/image/Sempervivum tectorum.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766220624070792,
+          50.06190330541653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 74,
+        "Objekt": "Senecio inaequidens",
+        "Bilder": "./data/content/image/Senecio inaequidens.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767895731245301,
+          50.05992682407838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 75,
+        "Objekt": "Stachys recta",
+        "Bilder": "./data/content/image/Stachys recta.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76463175370537,
+          50.061505600664596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 76,
+        "Objekt": "Staudenvegetation am Wegrand",
+        "Bilder": "./data/content/image/Staudenvegetation am Wegrand.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764297014148523,
+          50.060721478272455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 77,
+        "Objekt": "Stipa pulcherrima",
+        "Bilder": "./data/content/image/Stipa pulcherrima.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765536623020424,
+          50.06168181117884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 78,
+        "Objekt": "Teucrium chamaedrys",
+        "Bilder": "./data/content/image/Teucrium chamaedrys.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.743636193169404,
+          50.055492655945635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 79,
+        "Objekt": "Tragopogon dubius",
+        "Bilder": "./data/content/image/Tragopogon dubius.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748657220690292,
+          50.05579919912493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 80,
+        "Objekt": "Trifolium arvense",
+        "Bilder": "./data/content/image/Trifolium arvense.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76589127975361,
+          50.06111444218809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 81,
+        "Objekt": "Trockenrasen mit Aster linosyris",
+        "Bilder": "./data/content/image/Trockenrasen mit Aster linosyris.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76580925161245,
+          50.061718027102884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 82,
+        "Objekt": "Ulmus minor",
+        "Bilder": "./data/content/image/Ulmus minor.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764205374839421,
+          50.06141063092784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 83,
+        "Objekt": "Vegetationsabfolge Felsbandrasen Gebuesche",
+        "Bilder": "./data/content/image/Vegetationsabfolge Felsbandrasen Gebuesche.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739005651932407,
+          50.05870270573734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 84,
+        "Objekt": "Verbuschende Weinbergsbrache",
+        "Bilder": "./data/content/image/Verbuschende Weinbergsbrache.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.744326359453874,
+          50.0553906562645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 85,
+        "Objekt": "Veronica teucrium",
+        "Bilder": "./data/content/image/Veronica teucrium.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763075334412028,
+          50.06202213188001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 87,
+        "Objekt": "Versaumte Wegrandvegetation",
+        "Bilder": "./data/content/image/Versaumte Wegrandvegetation.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764160125076931,
+          50.0605819950696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 86,
+        "Objekt": "verzahnte PrimaerSekundaerLebensraeume",
+        "Bilder": "./data/content/image/verzahnte PrimaerSekundaerLebensraeume.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751714973409116,
+          50.0569648483135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 88,
+        "Objekt": "Weinberge in Gehoelzsukzession",
+        "Bilder": "./data/content/image/Weinberge in Gehoelzsukzession.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751946660617831,
+          50.05715296101413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 89,
+        "Objekt": "Weinbergsbrache mit Brombeerverbuschung",
+        "Bilder": "./data/content/image/Weinbergsbrache mit Brombeerverbuschung.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766783559726155,
+          50.061204838044304
         ]
       }
     }
-
   ]
 }

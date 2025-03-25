@@ -1,0 +1,1347 @@
+{
+  "type": "FeatureCollection",
+  "name": "naturerleben_1",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 3,
+        "Name": "Achillea nobilis",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.760472578679359,
+          50.060955601957296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 1,
+        "Name": "Abraumhalde",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751806897878045,
+          50.058977920795485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 2,
+        "Name": "Acer monspessulanum",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764406315733681,
+          50.061503200900006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 4,
+        "Name": "Allium rotundum",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766443849108621,
+          50.06075740411385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 5,
+        "Name": "Allium sphaerocephalon",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765644073642422,
+          50.061672245100226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 6,
+        "Name": "Anthemis tinctoria",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766881667241678,
+          50.06091079111726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 7,
+        "Name": "Anthericum lilago",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76537492741332,
+          50.06164439496432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 8,
+        "Name": "Aquilegia vulgaris",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752828578522319,
+          50.05899366360975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 9,
+        "Name": "Arabis glabra",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765374802201293,
+          50.061217228031836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 10,
+        "Name": "Aristolochia clematitis",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766985048948182,
+          50.06041095151472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 11,
+        "Name": "Artemisia absinthium",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75641949409802,
+          50.05900363833584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 12,
+        "Name": "Artemisia lednicensis",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754972082397915,
+          50.05845033918408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 13,
+        "Name": "Asplenium ceterach",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761865296106238,
+          50.061413058245826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 14,
+        "Name": "Asplenium septentrionale",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.759897010736405,
+          50.06061624462038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 15,
+        "Name": "Aster linosyris",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764246866643838,
+          50.060515095700765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 16,
+        "Name": "Bacharach Kultur und Natur",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.759020003603309,
+          50.060221350508094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 17,
+        "Name": "Ballota nigra",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767271234551517,
+          50.06049490311042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 18,
+        "Name": "Berberis vulgaris",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765235772195482,
+          50.06144896477637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 19,
+        "Name": "Campanula rapunculus",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766804020578076,
+          50.061127713490094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 20,
+        "Name": "Cardamine impatiens",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752114186303398,
+          50.05767711890037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 21,
+        "Name": "Carduus nutans",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764864860002906,
+          50.060921472528406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 22,
+        "Name": "Chaerophyllum aureum",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763026503590628,
+          50.06225835343722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 23,
+        "Name": "Collomia grandiflora",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750249738770046,
+          50.0563101149035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 24,
+        "Name": "Crepis pulchra",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75788221364938,
+          50.05961900014836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 25,
+        "Name": "Cymbalaria muralis",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76803583167706,
+          50.059508284898385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 26,
+        "Name": "Dianthus deltoides",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.760800783619523,
+          50.06120184151753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 27,
+        "Name": "Draba muralis",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767972437228945,
+          50.05967419467416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 28,
+        "Name": "Dryopteris filix-mas",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737223174648745,
+          50.058872516224774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 29,
+        "Name": "EchioMelilotetum",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76643663235935,
+          50.06046223806346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 30,
+        "Name": "Echium vor Bacharach",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763304782143286,
+          50.061499798021266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 31,
+        "Name": "Emberiza cia",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766536154381338,
+          50.061914944848134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 32,
+        "Name": "Erysimum cheiri",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766861967525113,
+          50.0613187093752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 33,
+        "Name": "Faerbepflanzen",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746536993239816,
+          50.05538004634259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 34,
+        "Name": "Felsausbiss mit Felsvegetation",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764853603116912,
+          50.06072149690795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 35,
+        "Name": "Felsbandrasen",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765028599122809,
+          50.061599064704524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 36,
+        "Name": "Felsbandrasen Fetthenne",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765224804883698,
+          50.06086818841934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 37,
+        "Name": "Felsbandrasen Schieferfelsen",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764733553164848,
+          50.06157212736552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 38,
+        "Name": "Felsbiotopkomplex",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76545925590604,
+          50.06152749422671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 39,
+        "Name": "Felsbiotopkomplex",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766103176347958,
+          50.06207692523373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 40,
+        "Name": "Felsbiotopkomplex in Weinbergsterrassen",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764394113345035,
+          50.06134010135198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 41,
+        "Name": "Felsbiotopkomplex komplett",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765436045920621,
+          50.06185565319469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 42,
+        "Name": "Felsbiotopkomplex vollstaendig",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765740561274605,
+          50.06180177785806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 43,
+        "Name": "Felsen und Weinbergsbrachen verzahnt",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765279538163258,
+          50.061040112911435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 44,
+        "Name": "Felskomplex kleinraeumig",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765617463912133,
+          50.061124618994036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 45,
+        "Name": "Festuca heteropachys",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756649358904094,
+          50.05912032931887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 46,
+        "Name": "Galeopsis angustifolia",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752105868847969,
+          50.05879079869979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 47,
+        "Name": "Galium glaucum",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763804680391893,
+          50.061467047496734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 48,
+        "Name": "Geranium rotundifolium",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766362563237498,
+          50.06032342513203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 49,
+        "Name": "Geranium sanguineum",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764033936114934,
+          50.06146472958077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 50,
+        "Name": "Helleborus foetidus",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737930280216765,
+          50.05770460705495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 51,
+        "Name": "Hieracium bauhinii",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765976721706967,
+          50.06181856754521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 52,
+        "Name": "Hieracium pilosella",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.758199672840187,
+          50.05977946102887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 53,
+        "Name": "Iphiclides podalirius",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766662958896475,
+          50.06158312706705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 54,
+        "Name": "Isatis tinctoria",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755749617668274,
+          50.05874896422084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 55,
+        "Name": "Lactuca perennis",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766379818911311,
+          50.0613802187504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 56,
+        "Name": "Mauertreppen und Mauerkronen",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764537965768893,
+          50.06055151130271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 57,
+        "Name": "Melampyrum arvense",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764882176684294,
+          50.06125482221107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 58,
+        "Name": "Melica ciliata",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751931555945328,
+          50.05688031646516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 59,
+        "Name": "Melica uniflora",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737384408319327,
+          50.058222216639855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 60,
+        "Name": "Parietaria judaica",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76624498214504,
+          50.060583948111095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 61,
+        "Name": "Petrorhagia prolifera",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739492793969744,
+          50.058450983657245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 62,
+        "Name": "Potentilla argentea",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751560158086527,
+          50.05666333374783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 63,
+        "Name": "Prunus cerasifera",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764561145089123,
+          50.06080044223579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 64,
+        "Name": "Prunus mahaleb",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741480925196973,
+          50.05762536556798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 65,
+        "Name": "Reseda luteola",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761442098651948,
+          50.06133834017565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 66,
+        "Name": "Ranunculus sceleratus",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766655619925423,
+          50.06042767918466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 67,
+        "Name": "Rumex scutatus",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752052243025008,
+          50.05906742021616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 68,
+        "Name": "Saxifraga granulata",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.740162832470554,
+          50.05827263776859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 69,
+        "Name": "Securigera varia",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741990192424503,
+          50.05652667906858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 70,
+        "Name": "Sedum album",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.742757656892554,
+          50.055730637088246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 71,
+        "Name": "Sedum reflexum",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752040933292142,
+          50.05864846159414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 72,
+        "Name": "Sedum telephium",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764989229275667,
+          50.06140469593934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 73,
+        "Name": "Sempervivum tectorum",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766220624070792,
+          50.06190330541653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 74,
+        "Name": "Senecio inaequidens",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767895731245301,
+          50.05992682407838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 75,
+        "Name": "Stachys recta",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76463175370537,
+          50.061505600664596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 76,
+        "Name": "Staudenvegetation am Wegrand",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764297014148523,
+          50.060721478272455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 77,
+        "Name": "Stipa pulcherrima",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765536623020424,
+          50.06168181117884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 78,
+        "Name": "Teucrium chamaedrys",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.743636193169404,
+          50.055492655945635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 79,
+        "Name": "Tragopogon dubius",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748657220690292,
+          50.05579919912493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 80,
+        "Name": "Trifolium arvense",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76589127975361,
+          50.06111444218809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 81,
+        "Name": "Trockenrasen mit Aster linosyris",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76580925161245,
+          50.061718027102884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 82,
+        "Name": "Ulmus minor",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764205374839421,
+          50.06141063092784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 83,
+        "Name": "Vegetationsabfolge Felsbandrasen Gebuesche",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739005651932407,
+          50.05870270573734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 84,
+        "Name": "Verbuschende Weinbergsbrache",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.744326359453874,
+          50.0553906562645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 85,
+        "Name": "Veronica teucrium",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763075334412028,
+          50.06202213188001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 87,
+        "Name": "Versaumte Wegrandvegetation",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764160125076931,
+          50.0605819950696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 86,
+        "Name": "verzahnte PrimaerSekundaerLebensraeume",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751714973409116,
+          50.0569648483135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 88,
+        "Name": "Weinberge in Gehoelzsukzession",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751946660617831,
+          50.05715296101413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 89,
+        "Name": "Weinbergsbrache mit Brombeerverbuschung",
+        "Link": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766783559726155,
+          50.061204838044304
+        ]
+      }
+    }
+  ]
+}
