@@ -1,0 +1,22 @@
+{
+  "name": "Mittelrhein Tourismus App",
+  "short_name": "Mittelrhein Tourismus App",
+  "description": "Entdecken die Region Rheintal",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "black",
+  "icons": [
+    {
+      "src": "logo/logo-512w.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo/logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
