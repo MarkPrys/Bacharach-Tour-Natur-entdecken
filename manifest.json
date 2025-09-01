@@ -1,7 +1,7 @@
 {
-  "name": "Mittelrhein Tourismus App",
-  "short_name": "Mittelrhein Tourismus App",
-  "description": "Entdecken die Region Rheintal",
+  "name": "Tour around Bacharach",
+  "short_name": "Bacharach App",
+  "description": "Entdecken die Region um Bacharach",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "white",
