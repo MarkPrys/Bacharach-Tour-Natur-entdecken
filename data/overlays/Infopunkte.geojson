@@ -1343,6 +1343,40 @@
           50.061204838044304
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 16,
+        "Objekt": "Zum Rheinufer",
+        "Bilder": "./data/content/image/Rheinufer.jpg",
+        "iconColor": "red",
+        "Link": "https://vr-easy.com/tour/viriditas/250807-vogels_rheinpanorama_tour/#pano=23&pan=212.00803796978607&tilt=1.0632142469129187&fov=90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7716784,
+          50.0555706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 16,
+        "Objekt": "Zum Panorama aus der Drohnenperspektive",
+        "Bilder": "./data/content/image/Drohnenpano.jpg",
+        "iconColor": "red",
+        "Link": "https://vr-easy.com/tour/viriditas/250807-vogels_rheinpanorama_tour/#pano=102&pan=-63.422085110923106&tilt=18.252045841089362&fov=90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.759020003603309,
+          50.060221350508094
+        ]
+      }
     }
   ]
 }
